@@ -355,6 +355,4 @@ ATO I                           ATO II              ATO III             ATO IV
 
 ---
 
-**Feito com ❤️ e C**
-
 </div>
