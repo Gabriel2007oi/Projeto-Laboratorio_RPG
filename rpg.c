@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
-   RPG de texto: A Corte do Rei Carmesim.
-   O inventario usa uma lista duplamente encadeada, baseada no exemplo de pizzas.
-*/
-
 typedef struct NO {
     int codigo;
     char *nome;
